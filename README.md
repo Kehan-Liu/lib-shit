@@ -8,6 +8,8 @@ Create a new directory, named with course name + years, when the courses are eno
 
 **WRITE YOUR CONTRIBUTION IN contribution.md**
 
+**It is OK if there are multiple cheatsheets, just add your own it the corresponding directory**
+
 # Notes
 
 [lib-tests](https://github.com/ContributorSiri/lib-tests) is a repository for tests
